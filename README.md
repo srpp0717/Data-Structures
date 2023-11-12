@@ -1,4 +1,4 @@
-![111](https://github.com/srpp0717/Data-Structures/assets/148683906/99663ac5-1647-4230-a7e2-fa1cf6a73ced)# Assignment 2: Stacks and Queues
+# Assignment 2: Stacks and Queues
 
 ## Stack (สแต็ก)
 ลักษณะของ Stack เป็นโครงสร้างข้อมูลที่ทำงานตามหลัก Last In First Out (LIFO) หรือ "ข้อมูลล่าสุดที่เข้ามาคือข้อมูลที่ถูกดึงออกมาก่อนเสมอ"
