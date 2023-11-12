@@ -27,7 +27,9 @@
 
 ซึ่งแสดงว่ามีความผิดพลาดและตำแหน่งที่ผิดพลาดคือตำแหน่งที่ 12 ในสตริงคือตัวอักษร "]" ที่ไม่มีเครื่องหมายวงเล็บเปิดที่คู่กัน
 
-![111](https://github.com/srpp0717/Data-Structures/assets/148683906/b5ebb1bc-3c02-4a37-9fbd-8cbd66761226)
+
+![111](https://github.com/srpp0717/Data-Structures/assets/148683906/e0f01662-7b29-435c-ac1b-f6e73f9ba6ba)
+
 
 การทดสอบนี้จะใช้ unittest ในการทดสอบฟังก์ชัน bracket_check ที่ได้ถูกนำเข้ามาจาก bracket_check module โดยมี Test Case ทั้งหมด 5 Test Cases ดังนี้
 
@@ -41,6 +43,9 @@
 
 **5. test_error_4** ทดสอบกรณีที่มีข้อผิดพลาด เครื่องหมายวงเล็บปิดไม่มีคู่กับเครื่องหมายวงเล็บเปิดที่คู่กัน และมีเครื่องหมายวงเล็บเปิดที่ไม่ได้ปิด และไม่ได้เริ่มต้นด้วยเครื่องหมายวงเล็บเปิด และมีการแทรกข้อความ "Hello" ภายในวงเล็บ ซึ่งในกรณีนี้คาดหวังผลลัพธ์ที่ isError เป็น True และ locations มีค่า [2]
 
-![222](https://github.com/srpp0717/Data-Structures/assets/148683906/cd4506df-2a59-480c-a933-8214b2e59eca)
 
-![333](https://github.com/srpp0717/Data-Structures/assets/148683906/29a69bde-31a2-4074-b28e-1515281dd949)
+![222](https://github.com/srpp0717/Data-Structures/assets/148683906/2bfa94f8-afb6-4759-8a99-4072cc6e6a0d)
+
+![333](https://github.com/srpp0717/Data-Structures/assets/148683906/11530bcc-3015-45e7-ba95-61bc6204a11d)
+
+![444](https://github.com/srpp0717/Data-Structures/assets/148683906/097369c1-64d1-4a66-b7f3-6bbd63d442e8)
